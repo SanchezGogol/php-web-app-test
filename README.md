@@ -1,6 +1,9 @@
 # Тестовое задание для вакансии Junior DevOps специалист
 Развернуть PHP приложение
 ---
+```
+перед запуском приложения скопируйте каталог git clone https://bitbucket.org/EquipGroupRu/junior-devops-spetsialist.git в папку project
+```
 Приложение располагается в директории ./project/junior-devops-spetsialist/src
 Приложение подключается к двум БД MySql - writer_db и reader_db работающих в режиме slave;
 
